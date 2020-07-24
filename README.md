@@ -1,4 +1,4 @@
-# Learning a Javascript
+# Belajar Javascript Dari Nol
 
 online editor:
 - CODE SANDBOX
