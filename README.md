@@ -1,4 +1,4 @@
-# learning-javascript
+# Learning a Javascript
 
 online editor:
 - CODE SANDBOX
