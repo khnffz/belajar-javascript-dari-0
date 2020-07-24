@@ -10,6 +10,7 @@
 - Javascript Objects (React pre-requisite)
 - Javascript Bind (React pre-requisite)
 - readline-sync (React pre-requisite)
+
 ##Intro to React
 - Set up Atom IDE for React development
 - Installing NodeJs for React development
@@ -26,6 +27,7 @@
 - Using React without NPM
 - How react works & thinking in React
 - React Chrome developer tools
+
 ##Moving forward with react
 - Event system in React
 - Multiple pages with React Router
@@ -34,6 +36,7 @@
 - Comments in JSX & React
 - Forms in React
 - Forms in React Part 2 - Working with refs
+
 ##HTTP Requests, React Flux & Reflux
 - Setting up a simple Node & Express test server for React
 - How web requests work
@@ -45,6 +48,7 @@
 - React & Reflux - Actions & Stores
 - React & Reflux: Stores, Listeners & Triggers
 - React & Reflux: Modifying data
+
 ##Putting Theory Into Practice - A Better React Developer
 - Setting up the React project
 - Building a reuseable navigation bar with React
