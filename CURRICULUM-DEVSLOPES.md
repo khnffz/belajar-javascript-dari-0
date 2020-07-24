@@ -1,6 +1,6 @@
-#Curriculum form Devslopes by Mark Prices
+# Curriculum form Devslopes by Mark Prices
 
-##Javascript Basic
+## Javascript Basic
 - Javascript Resources (React pre-requisite)
 - Installing NodeJs (React pre-requisite)
 - Javascript Strings (React pre-requisite)
@@ -11,7 +11,7 @@
 - Javascript Bind (React pre-requisite)
 - readline-sync (React pre-requisite)
 
-##Intro to React
+## Intro to React
 - Set up Atom IDE for React development
 - Installing NodeJs for React development
 - Node basics & npm for React development
@@ -28,7 +28,7 @@
 - How react works & thinking in React
 - React Chrome developer tools
 
-##Moving forward with react
+## Moving forward with react
 - Event system in React
 - Multiple pages with React Router
 - React Router Hash
@@ -37,7 +37,7 @@
 - Forms in React
 - Forms in React Part 2 - Working with refs
 
-##HTTP Requests, React Flux & Reflux
+## HTTP Requests, React Flux & Reflux
 - Setting up a simple Node & Express test server for React
 - How web requests work
 - Using Postman to test APIs
@@ -49,7 +49,7 @@
 - React & Reflux: Stores, Listeners & Triggers
 - React & Reflux: Modifying data
 
-##Putting Theory Into Practice - A Better React Developer
+## Putting Theory Into Practice - A Better React Developer
 - Setting up the React project
 - Building a reuseable navigation bar with React
 - Creating a link hover effect on the navigation bar with State
